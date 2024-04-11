@@ -1,6 +1,6 @@
 {
-  "name": "load",
-  "version": "1.0.2",
+  "name": "fqliengla",
+  "version": "1.0.3",
   "description": "Load plain JavaScript files that don't use module patterns directly in node.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/3rd-Eden/load.git"
+    "url": "https://github.com/wo55along/fqliengla.git"
   },
   "keywords": [
     "load",
