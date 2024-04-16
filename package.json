@@ -20,7 +20,7 @@
     "browser",
     "exports"
   ],
-  "author": "Arnout Kazemier",
+  "author": "wo55along",
   "license": "MIT",
   "devDependencies": {
     "pre-commit": "0.0.x"
